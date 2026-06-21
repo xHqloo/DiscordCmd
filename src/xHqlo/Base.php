@@ -5,6 +5,7 @@ namespace xHqlo;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\SingletonTrait;
+use xHqlo\Commands\DiscordCmd;
 
 class Base extends PluginBase {
 

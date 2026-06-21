@@ -1,0 +1,2 @@
+# DiscordCmd
+Plugin Discord Command

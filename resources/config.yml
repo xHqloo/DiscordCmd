@@ -1,2 +1,4 @@
 discord-command: "ds"
 discord-description: "Permet davoir le lien du discord"
+discord-utilisation: "/ds"
+discord: "Voici le lien du discord : discord.gg/gfzf"

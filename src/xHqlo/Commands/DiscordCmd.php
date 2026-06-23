@@ -13,7 +13,7 @@ use xHqlo\Base;
 class DiscordCmd extends Command {
 
     public function __construct() {
-        parent::__construct(Base::getInstance()->getConfig()->get("discord-command"), Base::getInstance()->getConfig()->get("discord-description"), Base::getInstance()->getConfig()->get("discord-usage"));
+        parent::__construct(Base::getInstance()->getConfig()->get("discord-command"), Base::getInstance()->getConfig()->get("discord-description"), Base::getInstance()->getConfig()->get("discord-utilisation"));
        $this->setPermission(DefaultPermissions::ROOT_USER);
     }
 
